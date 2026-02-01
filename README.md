@@ -1,16 +1,26 @@
-# React + Vite
+# React Image Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](https://hafiza-sadia.github.io/react-image-gallery/)
 
-Currently, two official plugins are available:
+A responsive React Image Gallery** built with React, Vite, and Tailwind CSS.  
+Users can browse images smoothly with a clean, modern interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Fully responsive design for mobile and desktop
+- Built with React & Vite for fast performance
+- Tailwind CSS for modern styling
+- Easy to extend and customize
+- Hosted on GitHub Pages for free live access
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Technologies Used
+
+- **React**: UI library  
+- **Vite**: Frontend build tool  
+- **Tailwind CSS**: Styling  
+- **gh-pages**: GitHub Pages deployment
+
